@@ -1,0 +1,10 @@
+{
+	"name": "drain-and-kill-on-update",
+	"displayname": "drain-and-kill-on-update",
+	"dependencyName": "drain-and-kill-on-update",
+	"description": "",
+	"api_version": "2",
+	"version": "1.0",
+	"run_on_server": true,
+	"run_on_client": false
+}
